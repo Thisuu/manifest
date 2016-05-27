@@ -24,7 +24,6 @@
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" remote="x86" revision="donut-x86" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="x86" revision="donut-x86" />
   <project path="hardware/ril" name="platform/hardware/ril" remote="x86" revision="donut-x86" />
-  <project path="prebuilt" name="platform/prebuilt" remote="x86" revision="donut-x86" />
   <project path="system/bluetooth" name="platform/system/bluetooth" remote="x86" revision="donut-x86" />
   <project path="system/core" name="platform/system/core" remote="x86" revision="donut-x86" />
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="donut-x86" />
@@ -65,6 +64,7 @@
   <project path="frameworks/opt/com.google.android.googlelogin" name="platform/frameworks/opt/com.google.android.googlelogin" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
+  <project path="prebuilt" name="platform/prebuilt" />
 
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
